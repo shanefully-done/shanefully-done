@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/shanefully-done/shanefully-done/master/assets/banner.mov)
+![Banner](https://raw.githubusercontent.com/shanefully-done/shanefully-done/master/assets/banner.gif)
 
 | 🔍 Interests | 🛠 Specializations |
 |--------------|-------------------|
