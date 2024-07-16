@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Corrected CSS file inclusion -->
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script> <!-- Added particles.js -->
+</head>
+<body>
+    <!-- Your content here -->
+    <div id="typewriter"></div>
+    <div id="typewriter2"></div>
+    <div id="particles-js"></div>
+
+    <!-- Scripts -->
+    <script src="particles.json"></script> <!-- Ensure this is a JSON file for particles configuration -->
+    <script>
+        // Initialize Particles.js
+        particlesJS.load('particles-js', 'particles.json', function() {
+            console.log('callback - particles.js config loaded');
+        });
+
+        // Initialize Typewriter effects
+        new Typewriter('#typewriter', {
+            delay: 20,
+            loop: true,
+        }).pauseFor(500).typeString('G\'day, mate! 👋')
+            .pauseFor(2000)
+            .deleteAll(10)
+            .typeString('I\'m a software developer 👨‍💻')
+            .pauseFor(2000)
+            .deleteAll(10)
+            .typeString('I\'m a translator 🌐')
+            .pauseFor(2000)
+            .deleteAll(10)
+            .typeString('I\'m a maker 🏗')
+            .pauseFor(2000)
+            .deleteAll(10)
+            .typeString('Check out my work 👇')
+            .pauseFor(3000)
+            .deleteAll(10)
+            .pauseFor(500)
+            .start();
+
+        new Typewriter('#typewriter2', {
+            delay: 20,
+            loop: true,
+        }).pauseFor(500).pauseFor(1000)
+            .typeString('My name is Shane.')
+            .pauseFor(500)
+            .deleteAll(10)
+            .pauseFor(500)
+            .typeString('Javascript, NodeJS, Express, Python.')
+            .pauseFor(1000)
+            .deleteAll(10)
+            .pauseFor(500)
+            .typeString('Korean to English, English to Korean.')
+            .pauseFor(1000)
+            .deleteAll(10)
+            .pauseFor(500)
+            .typeString('Chatbots, Automation.')
+            .pauseFor(1000)
+            .deleteAll(10)
+            .pauseFor(500)
+            .typeString('My site is at IxTJ.dev')
+            .pauseFor(3000)
+            .deleteAll(10)
+            .pauseFor(500)
+            .start();
+    </script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #0d1116; /* Dark background to contrast with neon colors */
+}
+
+#particles-js {
+    width: 800px;
+    height: 387px;
+    background-color: #0d1116; /* Dark background to contrast with neon particles */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 0px solid #ff0000; /* Bright neon red border */
+    border-radius: 1rem;
+    opacity: 0.9;
+}
+
+#typewriter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60px);
+    font-size: 3rem;
+    line-height: 3rem;
+    color: #fff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    clip: auto;
+    z-index: 1;
+    background: -webkit-linear-gradient(#ff0000, #ff4d4d); /* Bright neon red gradient */
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#typewriter2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 20px);
+    font-size: 2rem;
+    line-height: 3rem;
+    color: #fff;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    z-index: 1;
+    background: -webkit-linear-gradient(#ff4d4d, #ff0000); /* Bright neon red gradient */
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
