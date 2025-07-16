@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shane
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanefully-done&layout=compact&theme=transparent" width="350" alt="Most used languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanefully-done&size_weight=0.5&count_weight=0.5&layout=compact&theme=default&bg_color=00000000" width="350" alt="Most used languages">
 </p>
 
 <p align="center">
