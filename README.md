@@ -5,53 +5,24 @@
 </p>
 
 <p align="center">
-  <strong>AI tinkerer • Productivity toolsmith • Automation enthusiast</strong><br/><br/>
-  I build tools that build things — fast, useful, and a little bit fun.<br/><br/>
-  Bilingual in <strong>Korean 🇰🇷</strong> and <strong>English 🇦🇺</strong> – bridging users, teams, and ideas across cultures.
+  <strong>Indie hacker • AI automator • Productivity toolsmith</strong><br/><br/>
+  I build systems that simplify work — fast, useful, and a bit opinionated.<br/><br/>
+  Bilingual in <strong>English 🇦🇺</strong> and <strong>Korean 🇰🇷</strong>, with a foot in both code and culture.
 </p>
 
 ---
 
-## 🧠 About Me
+## 🛠️ Areas of Focus
 
-I'm an indie hacker passionate about automating workflows, crafting intelligent systems, and building tools that solve real-world problems. From prompt engineering to chatbots to productivity SaaS, I love shipping projects that merge creativity and efficiency.
-
----
-
-## 🧰 Tech Interests & Specialties
-
-| 💡 Interests | 🛠️ Specialties |
-|--------------|----------------|
-| Automation ⚙️ | Chatbots 🤖 |
-| AI & LLMs 🧠 | Prompt Engineering ✍️ |
-| Productivity Tools ⏱️ | Translation (EN/KO) 🌏 |
+- ⚙️ Workflow automation
+- 🤖 LLMs, agents, and deep service integrations
+- ⏱️ Tools that reduce overhead
+- 🌐 API integrations & reverse engineering
+- 🌏 EN–KO translation + localisation
 
 ---
 
-## 🚀 Explore My Work
+## 🤝 Connect
 
-💡 My project stack evolves quickly. To stay updated:
-
-- 📘 **Read my blog:** [ixtj.dev](https://www.ixtj.dev)  
-- 🧑‍💻 **Browse my repositories:** [github.com/shanefully-done](https://github.com/shanefully-done?tab=repositories)
-
-You’ll find bots, API wrappers, web tools, open-source experiments, reverse engineering utilities, and more.
-
----
-
-## 🤝 Let's Connect
-
-- 🎮 Discord: [shanefully_done](https://discord.com/users/282791006112448514)  
+- 💬 Discord: [shanefully_done](https://discord.com/users/282791006112448514)  
 - ✉️ Email: [shane_hu@ixtj.dev](mailto:shane_hu@ixtj.dev)
-
-### 🌐 Socials
-
-- 👨‍💻 GitHub: [@shanefully-done](https://www.github.com/shanefully-done)  
-- 📷 Instagram: [@shanefully_done](https://www.instagram.com/shanefully_done/)
-
----
-
-<div align="center">
-  <i>“Build systems that help you think less and do more.”</i><br/>
-  💬 Always open to collaboration, feedback, or a good automation challenge.
-</div>
